@@ -22,4 +22,5 @@ int main()
     }
 
     cout << "\nProduct: " << sum << endl; // Display the product
+    Sleep(1000);
 }
